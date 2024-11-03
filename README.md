@@ -1,7 +1,7 @@
 Dessert Clicker app
 =====================
 
-Code for Android Basics with Compose Codelab.
+Solution code by learner for [Android Basics with Compose Codelab: Dessert Clicker](https://github.com/google-developer-training/basic-android-kotlin-compose-training-dessert-clicker).
 
 Introduction
 ------------
